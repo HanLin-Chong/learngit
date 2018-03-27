@@ -1,8 +1,5 @@
 ab
-<<<<<<< HEAD
 
 ef
 
-=======
-cd
->>>>>>> origin/master
+
